@@ -1,4 +1,4 @@
-# The Last of Us JavaFX Multiplayer Minigame (Header 1)
+# The Last of Us JavaFX Multiplayer Minigame
 
 Welcome to "The Last of Us JavaFX Multiplayer Minigame" project! This Java-based game, built with JavaFX, provides an engaging multiplayer experience where two players, each on a separate computer, control a set of survivors. The objective is to collect randomly spawned vaccines and cure as many zombies as possible. The player with the most survivors cured at the end of the game emerges victorious.
 Table of Contents
